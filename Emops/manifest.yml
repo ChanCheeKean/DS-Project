@@ -1,0 +1,11 @@
+applications:
+  - name: Emops_dash
+    instances: 1
+    memory: 1G
+    disk_quota: 2G
+    command: waitress-serve main:server
+    buildpack: python_buildpack
+    
+
+   
+ 

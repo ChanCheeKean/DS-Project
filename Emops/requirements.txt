@@ -1,0 +1,17 @@
+plotly==3.9.0
+./packages/dash_renderer-1.0.0.tar.gz
+./packages/dash-1.0.0.tar.gz
+dash_daq==0.1.5
+pybase64
+pandas
+gunicorn
+waitress
+scikit-learn
+scipy
+xgboost
+pathlib
+pvlib == 0.6.3
+dash_bootstrap_components==0.6.3
+seaborn
+flask
+pybase64

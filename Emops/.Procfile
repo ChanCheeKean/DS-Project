@@ -1,0 +1,1 @@
+waitress-serve main:server
